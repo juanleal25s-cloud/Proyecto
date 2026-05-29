@@ -1,0 +1,4 @@
+com\mycompany\mvcproject\Modelo\Usuario.class
+com\mycompany\mvcproject\MVCproject.class
+com\mycompany\mvcproject\Controlador\LoginController.class
+com\mycompany\mvcproject\Vista\Login.class
